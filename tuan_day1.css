@@ -1,0 +1,153 @@
+.tuan-nav-logo
+{
+    float: left;
+    padding-top: 14px;
+}
+
+.tuan-nav-menu
+{
+    padding-top: 10px;
+}
+
+.tuan-nav-menu .container ul
+{
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+.tuan-nav-menu .container ul li
+{
+    float: right;
+}
+
+.tuan-nav-menu .container ul li a
+{
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 14px;
+    text-decoration: none;
+    font-size: 13px;
+    font-family:Montserrat,sans-serif;
+}
+
+.tuan-nav-menu .container ul li a:hover
+{
+    color: aqua;
+}
+
+.tuan-header
+{
+    padding-bottom: 30px;
+}
+
+.tuan-main
+{
+    background-color: whitesmoke;
+}
+
+.tuan-space-1
+{
+    padding: 40px;
+}
+
+.tuan-space-2
+{
+    padding: 10px;
+}
+
+.tuan-space-3
+{
+    padding: 40px;
+}
+
+.col-md-3
+{
+    padding: 0;
+}
+
+.col-md-3 a:hover
+{
+    background-color: aquamarine;
+}
+
+.tuan-footer
+{
+    background-color: black;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    color: white;
+}
+
+.tuan-links-list ul {
+    list-style-type:none;
+    margin:0;
+    padding:0;
+}
+
+.tuan-contact-info
+{
+    display: block;
+    list-style-type:none;
+}
+
+.tuan-contact-info li
+{
+    padding: 10px;
+}
+
+.form-control:-ms-input-placeholder,:-ms-input-placeholder{
+    color:#858585;
+    opacity:1
+}
+.form-control{
+    padding:16px 22px;
+    font-size:15px;
+    font-weight:400;
+    line-height:1.2;
+    background-color:#fff;
+    border:1px solid #e6e6e6;
+    border-radius:0
+}
+.form-control:focus{
+    border-color:#10c9c3
+}
+
+.tuan-btn
+{
+    display:inline-block;
+    border:0;
+    padding:20px 25px;
+    font-size:13px;
+    text-align:center;
+    text-transform:uppercase;
+    background-color:#10c9c3
+}
+.tuan-btn,.tuan-btn:active,.tuan-btn:focus,.tuan-btn:hover{
+    color:#fff;
+    text-decoration:none
+}
+
+.tuan-btn:active,.tuan-btn:focus,.tuan-btn:hover{
+    background-color:#252525
+}
+
+.tuan-main-contact
+{
+    padding: 30px;
+    background-color: whitesmoke;
+}
+
+.relative{
+	position:relative;
+}
+
+.relative p{
+	position: absolute;
+    bottom: 0;
+    left: 0;
+}
+
+
+
